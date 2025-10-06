@@ -10,16 +10,7 @@ include 'header.php';
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
                     Unicon Fire Company is an industry leader in fire safety and disaster management. With a strong commitment to public safety, we are proudly certified by NITA and DOSH's Ministry of Labour to provide comprehensive Fire Marshal Training and Fire Drills.
                 </p><br>
-                <div class="flex items-center justify-around mt-8 space-x-4">
-                    <div class="flex flex-col items-center">
-                        <img src="assets/images/NITA Logo.png" alt="NITA logo" class="h-auto max-w-full rounded-lg shadow-md animate-bounce">
-                        <p class="mt-2 text-sm text-gray-600">Certified by NITA</p>
-                    </div>
-                    <div class="flex flex-col items-center">
-                        <img src="assets/images/DOSHS.png" alt="DOSH Logo" class="h-auto max-w-full rounded-lg shadow-md animate-bounce">
-                        <p class="mt-2 text-sm text-gray-600">Approved by DOSH ministry of Labour</p>
-                    </div>
-                </div>
+                
             </div>
 
             <!-- Image 1 -->
@@ -42,7 +33,7 @@ include 'header.php';
 
             <!-- Image 3 -->
             <div class="w-full max-w-4xl">
-                <img src="assets/images/instal" alt="Project 3" class="w-full h-auto object-cover rounded-lg shadow-lg hover:scale-105 transition-transform duration-300">
+                <img src="assets/images/installation.png" alt="Project 3" class="w-full h-auto object-cover rounded-lg shadow-lg hover:scale-105 transition-transform duration-300">
                 <p class="text-center text-sm text-gray-500 mt-2">Installation of a comprehensive fire alarm system.</p>
             </div>
 
@@ -54,11 +45,23 @@ include 'header.php';
             
             <!-- Image 4 -->
             <div class="w-full max-w-4xl">
-                <img src="assets/images/supply.jpg" alt="Project 4" class="w-full h-auto object-cover rounded-lg shadow-lg hover:scale-105 transition-transform duration-300">
+                <img src="assets/images/supply.png" alt="Project 4" class="w-full h-auto object-cover rounded-lg shadow-lg hover:scale-105 transition-transform duration-300">
                 <p class="text-center text-sm text-gray-500 mt-2">Supply and maintenance of industrial fire extinguishers.</p>
             </div>
         </div>
+        <br>
+        <div class="flex items-center justify-around mt-8 space-x-4">
+                    <div class="flex flex-col items-center">
+                        <img src="assets/images/NITA Logo.png" alt="NITA logo" class="h-auto max-w-full rounded-lg shadow-md animate-bounce">
+                        <p class="mt-2 text-sm text-gray-600">Certified by NITA</p>
+                    </div>
+                    <div class="flex flex-col items-center">
+                        <img src="assets/images/DOSHS.png" alt="DOSH Logo" class="h-auto max-w-full rounded-lg shadow-md animate-bounce">
+                        <p class="mt-2 text-sm text-gray-600">Approved by DOSH ministry of Labour</p>
+                    </div>
+                </div>
     </section>
+    
 </main>
 
 <?php include 'footer.php'; ?>

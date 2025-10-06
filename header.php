@@ -27,7 +27,7 @@
                 <a href="about_page.php" class="text-gray-600 hover:text-red-500 transition-colors">About Us</a>
                 <a href="services_and_equipment.php" class="text-gray-600 hover:text-red-500 transition-colors">Services & Equipment</a>
                 <a href="contact_page.php" class="text-gray-600 hover:text-red-500 transition-colors">Contact</a>
-                <a href="staff_index.php" class="text-green-600 hover:text-green-800 transition-colors">Staff Login</a>
+   
             </div>
             <button id="mobile-menu-btn" class="md:hidden text-gray-600 focus:outline-none">
                 <i class="fas fa-bars text-2xl"></i>
@@ -39,6 +39,6 @@
             <a href="about.php" class="block py-2 text-lg font-semibold text-gray-600 hover:text-red-500">About Us</a>
             <a href="services_equipment.php" class="block py-2 text-lg font-semibold text-gray-600 hover:text-red-500">Services & Equipment</a>
             <a href="contact.php" class="block py-2 text-lg font-semibold text-gray-600 hover:text-red-500">Contact</a>
-            <a href="staff_index.php" class="block py-2 text-lg font-semibold text-green-600 hover:text-green-800">Staff Login</a>
+            
         </div>
     </header>

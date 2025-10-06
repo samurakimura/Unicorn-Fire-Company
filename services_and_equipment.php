@@ -135,6 +135,14 @@ include 'header.php';
 
     <!-- Services Section -->
     <section class="py-12 px-4 rounded-3xl shadow-xl bg-gray-50 text-center animate-fadeIn delay-1000">
+        <h3 class="text-3xl font-bold text-red-700 mb-6">Not Sure of what you want😕</h3>
+        <p class="text-lg text-gray-700 mb-8 max-w-2xl mx-auto"> 
+            Get a recommendation from our experts on the best fire safety equipment and services tailored to your needs according to your environment and risk factors.
+                    <div class="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-8">
+            <a href="contact_page.php?=Find%20the%20Right%20Extinguisher" class="w-full sm:w-auto bg-blue-600 text-white font-bold py-3 px-8 rounded-full hover:bg-blue-700 transition-colors transform hover:scale-105 shadow-lg">Recommend</a>
+        </div>
+        </p>
+
         <h3 class="text-3xl font-bold text-red-700 mb-6">Our Professional Services</h3>
         <p class="text-lg text-gray-700 mb-8 max-w-2xl mx-auto">
             Unicorn Fire Company provides expert fire safety training, inspections, and maintenance. Contact us for a custom quote tailored to your specific needs.
